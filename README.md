@@ -1,7 +1,3 @@
-# Customer Churn Prediction — Project Steps
-
-Follow these notebook steps in order. This guide explains the workflow only—no code.
-
 ## 1. Load and understand the data
 
 Use the raw file in `Data/` and inspect its rows, columns, data types, missing values, duplicate records, and category values. Identify `churn` as the target. Keep `customer_id` only to identify customers; do not use it to fit the model.
